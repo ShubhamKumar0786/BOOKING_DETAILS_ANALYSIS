@@ -26,7 +26,7 @@ The initial dataset (`Booking_details.xlsx`) contains the following 18 columns:
 16. **Service Type**: Service category (e.g., "Facility", "Birthday Party").
 17. **Customer Email**: Customer's email (e.g., "customer1@example.com").
 18. **Customer Phone**: Customer's phone number (e.g., "001-730-9034").
-
+# Perform Cleaning
 ## Important Libraries
 The script relies on the following libraries:
 1. **NumPy (`numpy` as `np`)**:
@@ -119,6 +119,10 @@ The script does not explicitly rename columns in the provided code. However, for
 ---
 ## Shorten IDs: 
 - The Booking ID and Customer ID columns, originally lengthy UUIDs, are shortened to their first four characters (e.g., "279d92c6-..." to "279d", "00901ce3-..." to "0090") using string slicing. This simplifies the identifiers for easier reference and display while maintaining uniqueness within the dataset.
+```
+df["Booking ID"] = df["Booking ID"].str[:4]
+df["Customer ID"] = df["Customer ID"].str[:4]
+```
 ---
 
 
@@ -157,5 +161,5 @@ After cleaning, the dataset (`Booking_data.csv`) retains these 10 columns:
 | 2100       | 6bbb        | Customer 3    | Birthday Party | 2025-05-09   | Confirmed| 11:00 AM  | 120             | 208   | Play Area   |
 
 ---
-
-This section provides a comprehensive breakdown of the dataset and script, covering all requested aspects: overview, columns, shape, info, missing values, dropped columns, renamed columns (noted as minimal), libraries, and CSV conversion. You can integrate this into your `README.md` or use it standalone. Let me know if you'd like further tweaks!
+# Dashboard Creation in Power BI
+After cleaning, the dataset with 10 columns (Booking ID, Customer ID, Customer Name, Booking Type, Booking Date, Status, Time Slot, Duration (mins), Price, Facility) is used to create an interactive dashboard in Power BI. This dashboard visualizes booking trends, status distribution, and pricing insights, enabling efficient analysis and decision-making based on the streamlined data.
