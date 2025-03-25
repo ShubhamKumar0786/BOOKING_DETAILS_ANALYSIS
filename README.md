@@ -200,6 +200,16 @@ This README outlines the structure, visuals, and insights from the Power BI repo
 
 
 
+![1](https://github.com/user-attachments/assets/e6d98da2-4e26-4a85-9186-24652058a0f9)
+
+
+
+
+
+![2](https://github.com/user-attachments/assets/cff43eaf-faf3-4ccc-9b68-b2474c263f47)
+
+
+
 
 ## 📊 Visual Elements & Insights
 
