@@ -194,9 +194,14 @@ After cleaning, the dataset with 10 columns (Booking ID, Customer ID, Customer N
 
 
 
-![1](https://github.com/user-attachments/assets/e6d98da2-4e26-4a85-9186-24652058a0f9)
+
+![3](https://github.com/user-attachments/assets/73907ba1-a26f-4b45-b68b-f410234ef966)
 
 
+
+
+
+![4](https://github.com/user-attachments/assets/61201955-871a-4e75-a56a-77d912fc64f1)
 
 
 
@@ -208,7 +213,7 @@ After cleaning, the dataset with 10 columns (Booking ID, Customer ID, Customer N
 
 
 
-https://github.com/user-attachments/assets/368db8c1-684f-43eb-aaaf-e7eeff8025c9
+
 
 
 
