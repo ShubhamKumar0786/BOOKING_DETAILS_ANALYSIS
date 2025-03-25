@@ -211,6 +211,17 @@ This README outlines the structure, visuals, and insights from the Power BI repo
 
 
 
+
+
+
+https://github.com/user-attachments/assets/368db8c1-684f-43eb-aaaf-e7eeff8025c9
+
+
+
+
+
+
+
 ## 📊 Visual Elements & Insights
 
 ### ✅ **Cards**
