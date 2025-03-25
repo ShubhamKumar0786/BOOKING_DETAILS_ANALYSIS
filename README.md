@@ -213,6 +213,7 @@ https://github.com/user-attachments/assets/368db8c1-684f-43eb-aaaf-e7eeff8025c9
 
 
 📊 Key Insights:
+---
  1). Total Revenue:
   - Total revenue generated from all bookings = 139k
    
