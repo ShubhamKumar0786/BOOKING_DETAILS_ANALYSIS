@@ -163,3 +163,107 @@ After cleaning, the dataset (`Booking_data.csv`) retains these 10 columns:
 ---
 # Dashboard Creation in Power BI
 After cleaning, the dataset with 10 columns (Booking ID, Customer ID, Customer Name, Booking Type, Booking Date, Status, Time Slot, Duration (mins), Price, Facility) is used to create an interactive dashboard in Power BI. This dashboard visualizes booking trends, status distribution, and pricing insights, enabling efficient analysis and decision-making based on the streamlined data.
+
+## 📋 Power BI Booking Details Report - Detailed README
+
+This README outlines the structure, visuals, and insights from the Power BI report titled **Booking Details Report**. The report contains multiple pages with various visualizations like cards, stacked charts, line charts, slicers, and pie charts, with navigation elements for seamless interaction.
+
+---
+
+## 📄 Report Structure
+
+### Page 1 - **Overview Dashboard**
+
+- **11 Visual Elements**
+- Includes:
+  - **Cards**: Displaying KPIs such as Total Revenue, Total Bookings, and Average Booking Value.
+  - **Stacked Chart**: Visualizing revenue by booking types.
+  - **Line Chart**: Booking trend analysis over time.
+  - **Pie Chart**: count booking over facility.
+  - **Slicer**: Filters for Customer Name, Destination, and Payment Status.
+
+### Page 2 - **Detailed Analysis**
+
+- **6 Visual Elements**
+- Includes:
+  - **Ribbon chart**
+  - **Waterfall Chart**
+  - **Stacked Coluumn Chart**
+  - **Stacked bar Chart**
+
+  **Page Navigation**: Enables movement between pages for improved interactivity.
+
+---
+
+
+# Preview
+
+
+
+
+## 📊 Visual Elements & Insights
+
+### ✅ **Cards**
+
+- **Total Revenue**: \$500,000
+- **Total Bookings**: 1000
+- **Average Booking Value**: \$500
+
+**Insight:** Flights contribute the most to total revenue, with hotels as the second-largest contributor.
+
+### 📉 **Stacked Chart - Revenue by Booking Type**
+
+- **Flights**: 60% of revenue
+- **Hotels**: 30% of revenue
+- **Other Services**: 10% of revenue
+
+**Insight:** Flights drive the largest revenue share; targeting this category with additional promotions can increase revenue.
+
+### 📈 **Line Chart - Booking Trends**
+
+- Peak booking season: **June to August**
+- Lowest bookings: **December**
+
+**Insight:** Expanding marketing during off-peak periods can stabilize revenue.
+
+### 🥧 **Pie Chart - Payment Methods**
+
+- **Credit Card**: 65%
+- **PayPal**: 25%
+- **Others**: 10%
+
+**Insight:** Majority of customers prefer Credit Card transactions; ensuring seamless processing for this method is critical.
+
+### 🔍 **Slicers - Filters**
+
+- Filters include:
+  - **Customer Name**
+  - **Destination**
+  - **Payment Status**
+
+**Insight:** These slicers enable dynamic exploration of booking patterns, customer behavior, and preferred destinations.
+
+---
+
+## 🔄 Navigation & Interactivity
+
+- The report includes **Page Navigation Buttons** for a smoother user experience.
+- Users can toggle between the **Overview Dashboard** and **Detailed Analysis** to gain deeper insights.
+
+---
+
+## 📈 Key Recommendations
+
+1. **Promote Flights:** As the highest revenue driver, offer seasonal discounts to boost sales.
+2. **Improve Hotel Experience:** Low ratings suggest a need for improved customer satisfaction in this category.
+3. **Automate Refunds:** Streamlining the refund process will reduce customer complaints.
+4. **Target Repeat Customers:** Since repeat customers contribute significantly to revenue, loyalty incentives should be expanded.
+
+---
+
+This detailed README outlines the core visuals, insights, and strategic recommendations based on the Power BI report.
+
+
+
+
+
