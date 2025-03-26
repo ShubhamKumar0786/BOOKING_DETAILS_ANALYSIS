@@ -285,7 +285,12 @@ https://github.com/user-attachments/assets/7216e1dc-7749-4ce2-ab74-770c6f2703fd
 
 ---
 
+## Feedback and Contributions
 
+We welcome contributions! If you have insights, improvements, or suggestions, please open an issue or submit a pull request.
+- 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
+- 📧 Email:shubhamkashyap9501@gmail.com
+- LinkedIn: [Linkedin_link](https://www.linkedin.com/in/shubham0786/)
 
 
 
