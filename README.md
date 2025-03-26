@@ -210,6 +210,13 @@ After cleaning, the dataset with 10 columns (Booking ID, Customer ID, Customer N
 
 
 
+https://github.com/user-attachments/assets/7216e1dc-7749-4ce2-ab74-770c6f2703fd
+
+
+
+
+
+
 
 
 
